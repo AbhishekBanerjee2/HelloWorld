@@ -1,3 +1,5 @@
 This is my first attempt to Git.
 
 This is my second attempt to git and I am still not getting anything.
+
+This is my third attempt to git and I have learnt a few things about Git.
